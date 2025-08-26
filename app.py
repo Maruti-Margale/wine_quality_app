@@ -7,7 +7,7 @@ import numpy as np
 with open("svm_model_state26.pkl", "rb") as f:
     model = pickle.load(f)
 
-st.title("🍷 Wine Quality Prediction App By Dewansh01")
+st.title("🍷 Wine Quality Prediction App By Maruti")
 
 st.write("Enter the wine characteristics below to predict its quality.")
 
